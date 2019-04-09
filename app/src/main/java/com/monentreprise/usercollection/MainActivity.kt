@@ -22,9 +22,6 @@ class MainActivity : AppCompatActivity() {
             Log.d("myDebug", "age : " + (it?.age ?: ""))
             ""
         }
-
-
-
-
     }
+    
 }
